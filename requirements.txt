@@ -1,5 +1,5 @@
 flask == 0.12.2
 pygeoip == 0.3.2
-Flask_GoogleMaps-0.2.5-py2.py3-none-any.whl
+Flask_GoogleMaps-0.2.5
 flask-goooglemaps == 0.2.5
 
