@@ -1,4 +1,0 @@
-flask == 0.12.2
-pygeoip == 0.3.2
-googlemaps==2.5.1
-gunicorn==19.0.0
