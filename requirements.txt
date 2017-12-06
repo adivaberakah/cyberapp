@@ -1,5 +1,4 @@
 flask == 0.12.2
 pygeoip == 0.3.2
+flask-goooglemaps
 Flask_GoogleMaps-0.2.5
-flask-goooglemaps == 0.2.5
-
