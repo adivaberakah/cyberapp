@@ -1,0 +1,15 @@
+css file for christian website
+
+.section-title {
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	align-items: center;
+	margin: 0 0 80px;
+	position: relative;
+	text-transform: uppercase;
+	justify-content: center;
+	text-align: center;
+	width: 25%;
+	float: left;
+}
